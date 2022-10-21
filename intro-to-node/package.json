@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "music-scale": "^1.2.0",
+    "superheroes": "^3.0.0"
+  },
+  "name": "intro-to-node",
+  "version": "1.0.0",
+  "description": "intro to node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Morris Blaustein",
+  "license": "ISC"
+}
